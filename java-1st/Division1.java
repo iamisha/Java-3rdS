@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-class Division {
+class Division1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the first integer value:-");
