@@ -19,3 +19,5 @@
 ---> We could simply use the try-catch block or we can easily throws the IOException
 
 ----> solutin is in :- WriteInFile.java
+
+Thank you, hope your day goes well :)
