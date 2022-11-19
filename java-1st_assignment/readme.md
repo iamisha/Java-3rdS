@@ -158,3 +158,26 @@ access modifier in java has the following characteristics:-
    ![CHEESE!](access-modifier.webp)
 
 **Example program :-**
+
+1. for private access modifier = "[Animal.java]"
+2. for protected access modifier = "[pack/A.java & pack2/B.java]"
+3. for public access modifier = "[pack3/PublicA.java & pack4/PublicB.java]"
+4. for default access modifier = "[pack5/DefaultA.java & pack6/DefaultB.java]"
+
+# Question no. 7:- Differetiate between abstract class and Inteface
+
+Answer:-
+
+# Difference between Abstract class and Interface
+
+1. ---> Abstract class doesn't support multiple inheritance whereas
+   ---> Interface support multiple inheritance.
+2. ---> Abstract class can have final, non-final, static and non-static variables whereas
+   ---> Interface can have only static and final variables.
+
+3. ---> Abstract class can have private, protected, public and default members whereas
+   ---> All members are public by default.
+4. ---> It can have both abstract and non-abstract method whereas Interface can have only abstract method.
+5. ---> Interface doesn't allow to declare a constructor whereas abstract class can declare a constructor.
+6. ---> Abstract class can provide implementation of interface whereas Interface can't provide implementation of abstract class.
+7. ---> Abstract class can extend from another class or from multiple interfaces whereas Interfaces can only extend from another interfaces.
