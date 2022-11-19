@@ -1,2 +1,3 @@
 isha hitang is a good girl 
 yeah it's true and acceptable
+Java is not a pure object oriented progrmming language
