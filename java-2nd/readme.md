@@ -22,16 +22,18 @@ b. BufferedOutputStream
 
 3. ObjectInputStream class with it's method readObject() along with ObjecOutputStream class with it's method writeObject() is used.
 
-# JAVA -2nd Programming Questions
+                                        **JAVA -2nd Programming Questions**
+                                        1. Write a java program to copy an image file without using BufferedStreams.
+                                        
+                                        Answer:- **Copy1.java**
+                                        
+                                        2. Write a java program to copy a file using BufferedStreams.
+                                        
+                                        Answer:- **Copy2.java**
+                                        
+                                        3. Write a java program to serialize and deserialize the data using two functions.
+                                        
+                                        Answer:- **SerializeAndDeserialize.java**
 
-1. Write a java program to copy an image file without using BufferedStreams.
 
-Answer:- **Copy1.java**
 
-2. Write a java program to copy a file using BufferedStreams.
-
-Answer:- **Copy2.java**
-
-3. Write a java program to serialize and deserialize the data using two functions.
-
-Answer:- **SerializeAndDeserialize.java**
