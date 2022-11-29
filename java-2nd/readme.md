@@ -22,13 +22,13 @@ _Serializable and Deserializable_
 
 3.  ObjectInputStream class with it's method readObject() along with ObjecOutputStream class with it's method writeObject() is used.
 
-                                        **JAVA -2nd Programming Questions**
+                            **JAVA -2nd Programming Questions**
 
 - Write a java program to copy an image file without using BufferedStreams.
 
                                     Answer:- **Copy1.java**
 
-* Write a java program to copy a file using BufferedStreams.
+- Write a java program to copy a file using BufferedStreams.
 
                                     Answer:- **Copy2.java**
 
