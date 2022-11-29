@@ -28,7 +28,7 @@ b. BufferedOutputStream
 
 Answer:- **Copy1.java**
 
-2. Write a java program to copy a file without using BufferedStreams.
+2. Write a java program to copy a file using BufferedStreams.
 
 Answer:- **Copy2.java**
 
