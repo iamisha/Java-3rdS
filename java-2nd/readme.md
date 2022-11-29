@@ -33,3 +33,5 @@ Answer:- **Copy1.java**
 Answer:- **Copy2.java**
 
 3. Write a java program to serialize and deserialize the data using two functions.
+
+Answer:- **SerializeAndDeserialize.java**
