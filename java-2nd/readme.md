@@ -1,6 +1,6 @@
-# THEORY
+### [THEORY](https://github.com/markdown-it/markdown-it-abbr)
 
-**Java Buffered Streams**
+_Java Buffered Streams_
 
 ===> It uses the Internal buffer to store the data.
 
@@ -14,7 +14,7 @@ a. BufferedInputStream
 
 b. BufferedOutputStream
 
-**Serializable and Deserializable**
+_Serializable and Deserializable_
 
 1.  The process of storing the data object data into the file is called the serialization and the reverse is called the deserialization.
 
