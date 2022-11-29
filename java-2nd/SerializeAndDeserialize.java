@@ -19,7 +19,7 @@ class Student implements Serializable {
         System.out.println(this.name + " " + this.roll);
     }
 
-    public static void serialize(Student s) throws IOException, ClassNotFoundException {
+    public static void serialize(Student s) throws IOException {
 
         FileOutputStream fos = new FileOutputStream("file.dat");
         ObjectOutputStream oos = new ObjectOutputStream(fos);
