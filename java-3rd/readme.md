@@ -19,7 +19,8 @@
 - Java AWT components are platoform dependent.i.e components are displayed according to the view of OS.
 - AWT is heavyweight. i.e it's components are using the resources of OS.
 - java.awt package is used.
-  **JAVA-3rd programming questions**
+
+                                               **JAVA-3rd programming questions**
 
 * Write a java program to write a name, rollno, faculty and address of a student in a text file "detail.dat" that keep asking for the data until the user press n key to exit.
 
