@@ -11,7 +11,7 @@
 
 * These streams are located in java.io package.
 
-#
+##
 
 **AWT(Abstract Window Toolkit)**
 
@@ -19,6 +19,17 @@
 - Java AWT components are platoform dependent.i.e components are displayed according to the view of OS.
 - AWT is heavyweight. i.e it's components are using the resources of OS.
 - java.awt package is used.
+
+                          ACTIONLISTENER INTERFACE
+
+- ActionListener in Java is an Interface that is responsible for handling action events such as when the user clicks the Button.
+
+* The java ActionListener is notified whenever you click on the button or the menu button.
+
+* It is notified against ActionEvent.
+* ActionListener interface is found in java.awt.event package.
+* The class which process the ActionEvent should implement the interface ActionListener.
+* The object of the class must be registered using addActionListener(instanceoflistenerclassmethod) with a component.
 
                                                **JAVA-3rd programming questions**
 
