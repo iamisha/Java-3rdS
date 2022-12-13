@@ -1,7 +1,5 @@
 # `THEORY`
 
- 
-
 **DataInputStream and DataOutputStream**
 
 - DataInputStream is used to read the primitive datatypes from an input source.
@@ -13,7 +11,7 @@
 
 * These streams are located in java.io package.
 
-#
+##
 
 **AWT(Abstract Window Toolkit)**
 
@@ -32,8 +30,6 @@
 * ActionListener interface is found in java.awt.event package.
 * The class which process the ActionEvent should implement the interface ActionListener.
 * The object of the class must be registered using addActionListener(instanceoflistenerclassmethod) with a component.
-
-
 
                                                **JAVA-3rd programming questions**
 
