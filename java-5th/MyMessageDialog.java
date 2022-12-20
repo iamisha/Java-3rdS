@@ -12,7 +12,7 @@ public class MyMessageDialog implements WindowListener{
         frame.setDefaultCloseOperation(JFrame.DO_NOTHING_ON_CLOSE);
     }
     public void windowClosing(WindowEvent e){
-        JOptionPane.showMessageDialog(null, "Do you really want to exit");
+        JOptionPane.showMessageDialog(null, "Do you really want to CONTINUE ?");
     }
 
 
