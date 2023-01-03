@@ -6,7 +6,7 @@ class ConnectDb{
             // register the Driver Class
             Class.forName("com.mysql.cj.jdbc.Driver");
             //connect to the database
-            Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/hackathon", "root", "len0v0@33214");
+            Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/hackathon", "root", "");
 
             // create Statement
             Statement st = con.createStatement();

@@ -11,7 +11,7 @@ public class StudentDb {
 
         // Connect to the Database
 
-        Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/ncit", "root", "len0v0@33214");
+        Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/ncit", "root", "");
 
         // create Statement
 
