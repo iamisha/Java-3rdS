@@ -10,7 +10,7 @@ step 4:- Execute Query
 
 step 5: Close the connection
 
-**How to compile and run the program? ❓**
+**How to compile and run the program ❓**
 
 step 1: import the .jar file into your workspace
 
