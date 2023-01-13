@@ -17,7 +17,7 @@ class Server{
                 if(isPalindrome(msg)){
                     pw.println("palindrome");
                 }else{
-                    pw.println("not a palindrome");
+                    pw.println("not palindrome");
                 }
             }
         
@@ -31,10 +31,10 @@ class Server{
             if(str.charAt(i) != str.charAt(j)){
                 return false;
             }
-            i ++;
+            i++;
             j--;
         }
     
-    return false;
+    return true;
 }
 }
