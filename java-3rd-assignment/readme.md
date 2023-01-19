@@ -35,7 +35,7 @@ JDBC Drivers are of four different types:
 
  * It is easy to use.
 
- * can be easily connected to any database.
+ * It can be easily connected to any database.
 
 **Disadvantages**
 
