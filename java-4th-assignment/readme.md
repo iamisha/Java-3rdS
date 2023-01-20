@@ -3,7 +3,7 @@
 
 # Question no 1: Define Port, Socket, IP Address and URL.
 
-## Port:-
+## `Port`:-
 
         * Port is a logical construct.
 
@@ -24,7 +24,7 @@
 
         * example: HTTPS:80, HTTP:443, FTP:20.
 
-## IP Addresses
+## `IP Addresses`
         
         * An IP Addres is an address having information about how to reach a specific host which is a 32-bit unique address number having an address space of 2 ^ 32.
         
@@ -54,7 +54,7 @@
         * Example porgram:- eg/InetAddressExam.java
  
 
-## Socket:- 
+## `Socket`:- 
 
         * Combination of IP address and Port number is called the the Socket.
 
@@ -70,7 +70,7 @@
 
         * It works as an interface between an Application layer and Transport Layer
 
-## URL Class
+## `URL Class`
 
 
 * It is a class that is used to represent URL
