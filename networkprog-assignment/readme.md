@@ -78,7 +78,7 @@
 * It is a class that is used to represent URL
 * It is a package of java.net.
 * A url is devided into the many sections;
-![CHEESE!](url.jpg)
+![CHEESE!](img/url.jpg)
 * Example program 💯
 
          eg/URLMthod.java
