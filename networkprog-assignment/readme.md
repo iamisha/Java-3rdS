@@ -24,6 +24,23 @@
 
         * example: HTTPS:80, HTTP:443, FTP:20.
 
+## `Socket`:- 
+
+        * Combination of IP address and Port number is called the the Socket.
+
+        * Socket is the end point for the communication.
+
+        * Different types of the Socket are:
+
+                a. TCP Socket 
+
+                b. Datagram Socket
+
+                c. Raw Socket Interface
+
+        * It works as an interface between an Application layer and Transport Layer
+
+
 ## `IP Addresses`
         
         * An IP Addres is an address having information about how to reach a specific host which is a 32-bit unique address number having an address space of 2 ^ 32.
@@ -54,23 +71,8 @@
         * Example porgram:- eg/InetAddressExam.java
  
 
-## `Socket`:- 
 
-        * Combination of IP address and Port number is called the the Socket.
-
-        * Socket is the end point for the communication.
-
-        * Different types of the Socket are:
-
-                a. TCP Socket 
-
-                b. Datagram Socket
-
-                c. Raw Socket Interface
-
-        * It works as an interface between an Application layer and Transport Layer
-
-## `URL Class`
+## `URL`
 
 
 * It is a class that is used to represent URL
@@ -136,6 +138,20 @@
 # Question no 3: Differentiate between URL and URLConnection class in java
 
 - **URL** is the class that is used to represent a url where the **URLConnection** is the class that is used to represent the communication between  a url and an application.
+
+- **URL** class provides the methods for accessing the various components of the url where **URLConnection** class provides  the links to the sources like web page, and retrieve information about the resource such as content type, content length and last modified date.
+
+- **URL** class is used to represent the address of the resource whereas **URLConnection** class is used to establish a connection to the resource and retrieve information about it.
+
+- The **URL** class is immutable, which means that once it's created, its fields can not be modified. While the **URLConnection** class is mutable, which means that the request properties can be modified before the connection is opened.
+
+- **URL** class example:-
+
+        eg/URLMethod.java
+
+whereas **URLConnection** class example:-
+
+        eg/URLConnectionExam.java
 
 # Question no 4: Write a program to print the content of any given URL. Also save the content in an index.html file.
 
@@ -211,4 +227,35 @@
         MultiThreadClient.java
 
 # Question no 13: Create a UDP server and client application.
+
+## Solution:- 
+        
+        UDPClient.java
+
+        UDPServer.java
+
+## Output:- 
+        
+        `Client side terminal`
+
+        Enter a string you want to send to server:- 
+
+        Hi, i'm client...
+
+        Server replies:- Oh, hello, i'm Server
+
+        Enter a string you want to send to server:- 
+
+        bye
+
+        c>>
+
+
+        `server side terminal`
+
+        Client says:- Hi, i'm client...
+
+        Client adddress:- /127.0.0.1 : Client running at port:- 35399
+
+
 
