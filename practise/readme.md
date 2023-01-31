@@ -67,3 +67,20 @@
 
         MessageDialogExam.java
 
+##  Write a Java Program to create your own JOptionPane that shows the normal messageDialog in which display the result what the user have selectd either SE or IT by making the two RadioButtons se and it.
+
+        MyOwnDialog.java
+
+##  Write a Java Program to create your own JOptionPane that shows the normal messageDialog in which display the result what the user have selectd either SE or IT by making the two RadioButtons se and it.
+
+        MyOwnDialogRadio.java
+
+## Qn no. 1:- Write a Java Program to show all the data of the table
+
+        ConnectDb.java
+
+## Qn no. 2:- Write a Java Program to print only those records whose faculty is SE given table name Students
+
+        ConnectDbNext.java
+        
+

@@ -11,8 +11,9 @@ class MessageDialogExam implements WindowListener{
         f.setDefaultCloseOperation(JFrame.DO_NOTHING_ON_CLOSE);
     }
     public void windowClosing(WindowEvent e){
-        JOptionPane.showMessageDialog(f,"do you really want to close the frame ?");
+        JOptionPane.showMessageDialog(f,"do you really want to close the frame ?","title",JOptionPane.PLAIN_MESSAGE);
     }
+    
     public void windowOpened(WindowEvent e){}
     public void windowActivated(WindowEvent e){}
     public void windowDeactivated(WindowEvent e){}
