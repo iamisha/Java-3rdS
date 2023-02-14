@@ -18,9 +18,10 @@ class DigitalWatch extends JFrame{
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
     }
     public void showTime(){
+        while(true){
         Calendar cal = Calendar.getInstance();
         SimpleDateFormat f = new SimpleDateFormat("hh:mm:ss");
-        while(true){
+       
             String time = f.format(cal.getTime());
             label.setText(time);
             try{
