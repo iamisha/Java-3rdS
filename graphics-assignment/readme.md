@@ -66,7 +66,7 @@ SourceCode:- BarDiagram.java
 
 Output:-
 
-![!CHEESE](img/bardiagram.png)
+![!CHEESE](img/bardiagram20.png)
 
 SourceCode:- PieChart.java
 

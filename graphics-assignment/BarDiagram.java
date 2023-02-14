@@ -23,7 +23,7 @@ class BarDiagram extends JFrame{
     }
     public int [] transformData(){
         int [] td = new int[data.length];
-        int max_height = 700;
+        int max_height = 500;
         int max = getMax();
 
         for(int i=0;i<data.length;i++){
