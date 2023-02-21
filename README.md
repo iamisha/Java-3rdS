@@ -2,4 +2,4 @@
 
 Here, i have been including all `the codes` that i'm dong in laboratory period of JAVA at `3rd semester`... and it also includes all the `assignments` of JAVA.
 
-## Instructor:- Bhusan Shumsher Thapa sir
+## Instructor:- Bhusan Shumsher sir
